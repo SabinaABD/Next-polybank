@@ -10,3 +10,4 @@ public
 declaration.d.ts
 next.config.js
 tsconfig.json
+tsconfig.tsbuildinfo
