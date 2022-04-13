@@ -3,4 +3,10 @@ next-env.d.ts
 node_modules
 yarn.lock
 package-lock.json
+yarn.lock
 public
+.eslintrc.json
+.prettierrc.json
+declaration.d.ts
+next.config.js
+tsconfig.json
